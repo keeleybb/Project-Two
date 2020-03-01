@@ -1,6 +1,6 @@
 ![gradientBlue](public/assets/images/gradientblue.JPG)
 
-[Check out MoJo on Heroku!](https://immense-retreat-62376.herokuapp.com/)
+[Check out MoJo on Heroku!](https://aqueous-sea-47525.herokuapp.com/)
 
 # MoJo
 
